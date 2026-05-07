@@ -1,13 +1,13 @@
-# 🛒 E-Commerce Business Performance Analysis
+# E-Commerce Business Performance Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes e-commerce business performance using SQL by exploring sales trends, product performance, profitability, and conversion funnel efficiency throughout 2024.
 
 The objective of this project is to generate business insights that can support strategic decision-making and improve overall business performance.
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 - Analyze monthly revenue trends
 - Identify top-performing products and categories
 - Evaluate product profitability
@@ -16,7 +16,7 @@ The objective of this project is to generate business insights that can support 
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 - SQL (PostgreSQL)
 - Data Aggregation
 - Business Analysis
@@ -26,7 +26,7 @@ The objective of this project is to generate business insights that can support 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ecommerce-business-performance-analysis/
