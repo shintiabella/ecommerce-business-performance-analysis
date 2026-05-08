@@ -53,17 +53,16 @@ ecommerce-business-performance-analysis/
     └── README.md
 
 ## Analysis Summary
-
-### 1. Sales Trend Analysis
-Analyzed monthly revenue performance to identify seasonality patterns and transaction trends throughout 2024.
-### 2. Product Performance Analysis
-Identified products with the highest revenue and sales volume contribution.
-### 3. Product Category Analysis
-Compared high-volume and high-value categories to understand revenue drivers.
-### 4. Profitability Analysis
-Evaluated product-level profit and profit margin to identify the most profitable products.
-### 5. Conversion Funnel Analysis
-Measured the efficiency of order completion and identified conversion trends across different periods.
+1. Sales Trend Analysis
+   Analyzed monthly revenue performance to identify seasonality patterns and transaction trends throughout 2024.
+2. Product Performance Analysis
+   Identified products with the highest revenue and sales volume contribution.
+3. Product Category Analysis
+   Compared high-volume and high-value categories to understand revenue drivers.
+4. Profitability Analysis
+   Evaluated product-level profit and profit margin to identify the most profitable products.
+5. Conversion Funnel Analysis
+   Measured the efficiency of order completion and identified conversion trends across different periods.
 
 ---
 
