@@ -34,13 +34,23 @@ ecommerce-business-performance-analysis/
 ├── README.md
 │
 ├── sql/
+│   ├── README.md
 │   ├── analysis_1_sales_trend.sql
 │   ├── analysis_2_product_performance.sql
 │   ├── analysis_3_category_analysis.sql
 │   ├── analysis_4_profitability.sql
 │   └── analysis_5_conversion_funnel.sql
 │
+├── analysis/
+│   ├── README.md
+│   ├── analysis_1_sales_trend.md
+│   ├── analysis_2_product_performance.md
+│   ├── analysis_3_category_analysis.md
+│   ├── analysis_4_profitability.md
+│   └── analysis_5_conversion_funnel.md
+│
 ├── images/
+    └── README.md
 
 **Analysis Summary**
 1. Sales Trend Analysis
