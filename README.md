@@ -49,20 +49,25 @@ ecommerce-business-performance-analysis/
 │   ├── analysis_4_profitability.md
 │   └── analysis_5_conversion_funnel.md
 │
-├── images/
-    └── README.md
+├── dashboard/
+│   ├── README.md
+│   └── dashboard.png
+```
+
+---
 
 ## Analysis Summary
-1. Sales Trend Analysis
-   Analyzed monthly revenue performance to identify seasonality patterns and transaction trends throughout 2024.
-2. Product Performance Analysis
-   Identified products with the highest revenue and sales volume contribution.
-3. Product Category Analysis
-   Compared high-volume and high-value categories to understand revenue drivers.
-4. Profitability Analysis
-   Evaluated product-level profit and profit margin to identify the most profitable products.
-5. Conversion Funnel Analysis
-   Measured the efficiency of order completion and identified conversion trends across different periods.
+
+### 1. Sales Trend Analysis
+       Analyzed monthly revenue performance to identify seasonality patterns and transaction trends throughout 2024.
+### 2. Product Performance Analysis
+       Identified products with the highest revenue and sales volume contribution.
+### 3. Product Category Analysis
+       Compared high-volume and high-value categories to understand revenue drivers.
+### 4. Profitability Analysis
+       Evaluated product-level profit and profit margin to identify the most profitable products.
+### 5. Conversion Funnel Analysis
+       Measured the efficiency of order completion and identified conversion trends across different periods.
 
 ---
 
@@ -75,9 +80,20 @@ ecommerce-business-performance-analysis/
 
 ---
 
+## Dashboard
+
+View the interactive dashboard and visual insights:
+
+[Dashboard Preview](dashboard/)
+
+🔗 Live Dashboard:  
+(https://datastudio.google.com/reporting/f901f3ce-f436-4ace-bda3-2872b46351a7)
+
+---
+
 ## Future Improvements
 
-- Build interactive dashboards using Looker Studio
+- Build more advanced interactive dashboards
 - Add customer segmentation analysis
 - Analyze retention and repeat purchase behavior
 - Perform regional sales analysis
