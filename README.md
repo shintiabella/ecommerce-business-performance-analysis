@@ -81,7 +81,7 @@ ecommerce-business-performance-analysis/
 
 ## Dashboard
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard/dashboard.png)
 
 🔗 Live Dashboard:  
 (https://datastudio.google.com/reporting/f901f3ce-f436-4ace-bda3-2872b46351a7)
